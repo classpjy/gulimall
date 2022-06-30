@@ -16,7 +16,7 @@ buildNumber.properties
 **/target
 
 .idea
-
+gulimall.iml
 
 **/.gitignore
 
